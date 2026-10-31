@@ -303,6 +303,7 @@ PRODUCT_PACKAGES += \
     libalLDC \
     libalhLDC \
     libarcdualcamsat \
+    libarcsat \
     libarcsoft_beautyshot \
     libarcsoft_bodyslim \
     libarcsoft_distortion_correction \
